@@ -1,0 +1,10 @@
+{
+    "name": "mesd/doctrine-extensions-dependent-fixture-bundle",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "description": "Doctrine Extensions Dependent Fixture bundle",
+    "autoload": {
+        "psr-0": { "MESD\\DoctrineExtensions\\DependentFixtureBundle": "" }
+    },
+    "target-dir": "MESD/DoctrineExtensions/DependentFixtureBundle"
+}
