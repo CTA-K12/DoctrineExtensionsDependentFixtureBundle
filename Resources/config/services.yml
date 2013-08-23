@@ -1,0 +1,7 @@
+parameters:
+#    mesd_doctrine_extensions_dependent_fixture.example.class: MESD\DoctrineExtensions\DependentFixtureBundle\Example
+
+services:
+#    mesd_doctrine_extensions_dependent_fixture.example:
+#        class: %mesd_doctrine_extensions_dependent_fixture.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
