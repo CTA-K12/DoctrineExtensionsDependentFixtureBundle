@@ -1,6 +1,6 @@
 <?php
 
-namespace MESD\DoctrineExtensions\DependentFixtureBundle\Tests\Controller;
+namespace Mesd\DoctrineExtensions\DependentFixtureBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

@@ -1,5 +1,5 @@
 parameters:
-#    mesd_doctrine_extensions_dependent_fixture.example.class: MESD\DoctrineExtensions\DependentFixtureBundle\Example
+#    mesd_doctrine_extensions_dependent_fixture.example.class: Mesd\DoctrineExtensions\DependentFixtureBundle\Example
 
 services:
 #    mesd_doctrine_extensions_dependent_fixture.example:

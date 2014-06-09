@@ -4,7 +4,7 @@
     "type": "symfony-bundle",
     "description": "Doctrine Extensions Dependent Fixture bundle",
     "autoload": {
-        "psr-0": { "MESD\\DoctrineExtensions\\DependentFixtureBundle": "" }
+        "psr-0": { "Mesd\\DoctrineExtensions\\DependentFixtureBundle": "" }
     },
-    "target-dir": "MESD/DoctrineExtensions/DependentFixtureBundle"
+    "target-dir": "Mesd/DoctrineExtensions/DependentFixtureBundle"
 }

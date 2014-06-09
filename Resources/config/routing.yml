@@ -1,3 +1,0 @@
-mesd_doctrine_extensions_dependent_fixture_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: MESDDoctrineExtensionsDependentFixtureBundle:Default:index }

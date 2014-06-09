@@ -1,5 +1,5 @@
 <?php
-namespace MESD\DoctrineExtensions\DependentFixtureBundle\DataFixtures;
+namespace Mesd\DoctrineExtensions\DependentFixtureBundle\DataFixtures;
 
 use Doctrine\Common\DataFixtures\AbstractFixture;
 use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
